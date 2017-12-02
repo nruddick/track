@@ -1,0 +1,1 @@
+alias track="/opt/track/./track.sh"
